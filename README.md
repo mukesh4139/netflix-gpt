@@ -71,4 +71,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Netflix GPT
+- Create React app
+- Setup TailwindCSS
 
+# Features
+- Login Signup page
+  - Sign in / Sign up page
+  - redirect to Browse Page
+- Browse (after authentication)
+  - Header
+  - Main Movie
+    - Trailer in Background
+    - Title & Description
+    - Movie Suggestions
+      - MovieList * N
+- NetflixGPT
+  - Search Bar
+  - Movie Suggestions
+  
